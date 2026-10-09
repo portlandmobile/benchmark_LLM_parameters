@@ -1,0 +1,3 @@
+# python llm_bench.py -p claude --params-file presets/claude-low-effort.yaml --prompt "..."
+output_config:
+  effort: low

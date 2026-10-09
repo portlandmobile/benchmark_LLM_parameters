@@ -1,0 +1,3 @@
+# python llm_bench.py -p gemini --params-file presets/gemini-high-thinking.yaml --prompt "..."
+thinking_config:
+  thinking_level: high

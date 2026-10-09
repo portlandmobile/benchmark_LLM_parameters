@@ -1,0 +1,4 @@
+anthropic>=0.70
+google-genai>=1.50
+python-dotenv>=1.0
+PyYAML>=6.0

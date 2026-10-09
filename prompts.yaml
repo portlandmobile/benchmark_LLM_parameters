@@ -1,0 +1,16 @@
+# Up to 10 prompts. Pick one with --prompt-id. `name` and `system` are optional.
+prompts:
+  - id: 1
+    name: logic-puzzle
+    text: |
+      Three boxes are labeled "apples", "oranges", and "mixed". Every label is wrong.
+      You may draw one fruit from one box. How do you relabel all boxes correctly?
+
+  - id: 2
+    name: math
+    text: What is the sum of all prime numbers less than 100? Show your reasoning briefly.
+
+  - id: 3
+    name: code
+    system: You are a senior Python engineer. Be concise.
+    text: Write a function that returns the longest palindromic substring of a string, and state its time complexity.
